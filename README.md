@@ -1,5 +1,5 @@
 # Problem Description #
-We have deposited AAVE tokens and using it as collateral,we have borrowed DAI.Now we see that the aave token price is soaring and another token's growth
+We have deposited AAVE tokens and using it as collateral,we have borrowed DAI.Now we see that the aave token price is taking a dip and another token's growth
 like BAT looks promising.You fear the liquidation of your collateral and losing monetary value,so you decide to swap your collateral (AAVE-->BAT).
 
 You think of paying back the borrowed DAI and withdrawing AAVE so as to swap it on a DEX like Uniswap,but unfortunately your DAI has been locked into 
